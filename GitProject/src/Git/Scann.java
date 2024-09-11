@@ -5,7 +5,7 @@ public  class Scann {
 		System.out.println("git project");
 	}
 	public void display() {
-		System.out.println("git project");
+		System.out.println("git project.");
 	}
 
 	public static void main(String[] args) {
