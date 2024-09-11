@@ -7,6 +7,7 @@ public class SendGit {
 	System.out.println("third branch");
 	System.out.println("this is fourth barnch and version 3");
 	System.out.println("this is fourth barnch and version 3");
+	System.out.println("version 3");
 }
 	
 }
