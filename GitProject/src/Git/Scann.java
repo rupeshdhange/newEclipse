@@ -2,7 +2,7 @@ package Git;
 
 public  class Scann {
 	public void show() {
-		System.out.println("git project");
+		System.out.println("git project.");
 	}
 	public void display() {
 		System.out.println("git project.");
